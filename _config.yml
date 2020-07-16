@@ -95,7 +95,10 @@ analytics:
 author:
   name             : "Kaushal Kumar Maurya"
   avatar           : "/assets/images/kaushal_bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PHD STUDENT"
+  bio              : |+
+                     "PHD STUDENT 
+
+                      IN INDIAN INATITUTE OF TECHNOLOGY HYDERABAD"
   location         : "Hyderabad, India"
   email            : "cs18resch11003@iith.ac.in"
   links:
