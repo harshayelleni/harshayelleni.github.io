@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/images/kaushal_bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PHD STUDENT"
   location         : "Hyderabad, India"
-  email            : 
+  email            : "cs18resch11003@iith.ac.in"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "cs18resch11003@iith.ac.in"
+      #url: "cs18resch11003@iith.ac.in"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
