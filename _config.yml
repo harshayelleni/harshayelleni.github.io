@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PHD STUDENT"
   location         : "Hyderabad, India"
-  email            : "cs18resch11003@iith.ac.in"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
