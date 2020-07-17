@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaushal Kumar Maurya"
-  avatar           : "/assets/images/kaushal_bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kaushal_bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |+
                      PHD STUDENT IN  
                      <span style="color:blue">[IIT HYDERABAD](https://www.iith.ac.in/)</span> 
