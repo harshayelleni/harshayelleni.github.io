@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 
 ---
-<img style="float: left;" src="assets/images/kaushal_bio.jpg">
+<img style="float: left;" src="../assets/images/kaushal_bio.jpg">
 [Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension]()  
 CIKM 2020  
 **Kaushal Kumar Maurya**, Maunendra Sankar Desarkar  
