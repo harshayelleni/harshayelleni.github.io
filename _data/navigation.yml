@@ -8,6 +8,8 @@ main:
     url: /research/
   - title: "Academic Projects"
     url: /academic_projects/
+  - title: "Awards & Achievement"
+    url: /awards/
   - title: "CV"
     url: /cv/
   - title: "Blog"
