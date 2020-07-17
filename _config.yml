@@ -24,7 +24,7 @@ description              : "PHD STUDENT | IIT HYDERABAD"
 url                      : "https://kaushal0494.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kaushal0494/kaushal0494" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/kaushal_pic.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/kaushal_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Kaushal" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
