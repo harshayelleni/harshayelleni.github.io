@@ -16,8 +16,8 @@ Sreekanth Madisetty, **Kaushal Kumar Maurya**, Akiko Aizawa, Maunendra Sankar De
 ---
 
 ---
-[Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension]()  
-CIKM 2020  
-**Kaushal Kumar Maurya** and Maunendra Sankar Desarkar
+[Machine Translation Evaluation: Manual Versus Automatic—A Comparative Study](https://link.springer.com/chapter/10.1007/978-981-15-1097-7_45)  
+IDECT Springer, Singapore, 2020  
+**Kaushal Kumar Maurya**, Renjith P. RavindranCh, Ram Anirudh, Kavi Narayana Murthy
 ---
 
