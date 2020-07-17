@@ -6,10 +6,12 @@ main:
     url: /publications/
   - title: "Research"
     url: /research/
-  - title: "Blog"
-    url: /blog/
+  - title: "Academic projects"
+    url: /academic_project/
   - title: "CV"
     url: /cv/
+  - title: "Blog"
+    url: /blog/
   - title: "Miscellaneous"
     url: /miscellaneous/
 
