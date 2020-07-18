@@ -3,7 +3,8 @@ title: "Updates"
 layout: single
 permalink: /
 header:
-    title: "hi"  
+   image: "assets/images/quote.png"
+   overlay_filter: rgba(255, 0, 0, 0.5)
 ---
 
 ---
