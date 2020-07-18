@@ -10,4 +10,3 @@ permalink: /experience_academic_projects/
 * Leveraged DQN and Actor-Critic RL models to learn optimal policies  
 * Used Keras and Tensorflow deep learning libraries  
 ---
-***
