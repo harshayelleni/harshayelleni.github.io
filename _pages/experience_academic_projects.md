@@ -4,7 +4,8 @@ permalink: /experience_academic_projects/
 ---
 
 ---
-### Data Science Analyst, Ntwist(Finmee Technologies), CIE, IIIT H, Hyderabad, India  #### JULY 2017 - MARCH 2018
+#### Data Science Analyst, Ntwist(Finmee Technologies), CIE, IIIT H, Hyderabad, India  
+##### JULY 2017 - MARCH 2018
 * Build simulator for a gas-plant using deep learning techniques. MLP & LSTM were used as basic models
 * Used Deep Reinforcement Learning(DRL) to achieve optimal production for gas-plant
 * DQN and Actor-Critic RL models were explored in depth
