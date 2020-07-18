@@ -3,7 +3,7 @@ title: ""
 permalink: /experience_academic_projects/
 ---
 
-## Experience 
+# Experience   
 #### Data Science Analyst, Ntwist (Finmee Technologies), CIE, IIITH, Hyderabad, India [July 2017 - March 2018]
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Build simulator for a gas-plant using deep learning techniques  
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Applied Deep Reinforcement Learning to achieve optimal production for gas-plant  
@@ -12,7 +12,7 @@ permalink: /experience_academic_projects/
 
 ---
 
-## Academic Projects
+# Academic Projects  
 #### Machine Translation Evaluation [Dec 2015 - June 2017, M.Tech Dissertation]
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Hard problem, since it relates to the unresolved problem of semantic equivalence  
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Explored mapping function across different automatic and human evaluation metrics  
