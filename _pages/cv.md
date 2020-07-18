@@ -2,4 +2,4 @@
 title: "CV"
 permalink: /cv/
 ---
-![](../assets/images/KaushalCV.pdf)
+![Kaushal_CV_link](../assets/images/KaushalCV.pdf)
