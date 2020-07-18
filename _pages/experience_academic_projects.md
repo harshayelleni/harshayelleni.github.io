@@ -5,10 +5,10 @@ permalink: /experience_academic_projects/
 
 
 #### Data Science Analyst, Ntwist (Finmee Technologies), CIE, IIITH, Hyderabad, India [July 2017 - March 2018]
-  &#9679;  Build simulator for a gas-plant using deep learning techniques  
-  &#9679;  Applied Deep Reinforcement Learning to achieve optimal production for gas-plant  
-  &#9679;  Leveraged DQN and Actor-Critic RL models to learn optimal policies  
-  &#9679;  Used Keras and Tensorflow deep learning libraries
+&nbsp; &#9679; &nbsp; Build simulator for a gas-plant using deep learning techniques  
+&nbsp; &#9679; &nbsp; Applied Deep Reinforcement Learning to achieve optimal production for gas-plant  
+&nbsp; &#9679; &nbsp; Leveraged DQN and Actor-Critic RL models to learn optimal policies  
+&nbsp; &#9679; &nbsp; Used Keras and Tensorflow deep learning libraries
 ---
 #### Data Science Analyst, Ntwist (Finmee Technologies), CIE, IIITH, Hyderabad, India [July 2017 - March 2018]
 * Build simulator for a gas-plant using deep learning techniques  
