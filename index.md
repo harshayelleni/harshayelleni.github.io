@@ -1,10 +1,9 @@
 ---
-title: "Updates"
+title: "kkkkkkkkkkkkkkkkkkkkkkkkkkkkk  
+        Updateskkkkkkkkkkkkkkkkkk  
+        kooooooooooo"
 layout: single
 permalink: /
-header:
-   image: "assets/images/quote.png"
-   overlay_filter: rgba(255, 0, 0, 0.5)
 ---
 
 ---
