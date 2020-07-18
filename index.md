@@ -2,7 +2,7 @@
 title: |+
         “Read enough to develop your intuitions, then trust your intuitions.” - Geoffrey Hinton
 
-       Updates 
+        Updates 
 layout: single
 permalink: /
 ---
