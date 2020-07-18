@@ -1,10 +1,10 @@
 ---
-title: |
-   Read enough to develop your intuitions, then trust your intuitions. - Geoffrey Hinton
-
-   Updates 
+title: "Updates"
 layout: single
 permalink: /
+header:
+   image: "assets/images/quote1.png"
+   
 ---
 
 ---
