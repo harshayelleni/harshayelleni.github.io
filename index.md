@@ -1,6 +1,6 @@
 ---
 title: "Updates"
-layout: home
+layout: single
 permalink: /
 header:
    image: "assets/images/quote.png"
