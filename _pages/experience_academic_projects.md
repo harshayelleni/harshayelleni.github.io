@@ -9,4 +9,5 @@ permalink: /experience_academic_projects/
 * Applied Deep Reinforcement Learning to achieve optimal production for gas-plant  
 * Leveraged DQN and Actor-Critic RL models to learn optimal policies  
 * Used Keras and Tensorflow deep learning libraries  
+
 ---
