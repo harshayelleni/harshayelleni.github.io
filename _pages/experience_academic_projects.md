@@ -1,5 +1,5 @@
 ---
 title: "Experience & Academic Projects"
-permalink: /academic_projects/
+permalink: /experience_academic_projects/
 ---
 
