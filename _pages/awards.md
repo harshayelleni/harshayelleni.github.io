@@ -2,6 +2,7 @@
 title: "Awards & Achievement"
 permalink: /awards/
 ---
+* Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
 * Attended ICLR 2020, ACL 2020 and ICML 2020 conferences
 * Received a D&I financial support for attending the virtual ACL 2020 conference 
 * Worked as a volunteer to develop a virtual website for ICLR 2020, ACL 2020 and ICML 2020
