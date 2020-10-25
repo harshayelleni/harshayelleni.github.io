@@ -2,6 +2,9 @@
 title: "Awards & Achievement"
 permalink: /awards/
 ---
+* Present our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
+* Received Student travel gran from CIKM'20 (ACM-SIGIR) and ACM-India for presenting my work at the CIKM'20 conference. 
+* Successfully converted as Senior Research Fellow (SRF) at CSE-IITH 
 * Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
 * Attended ICLR 2020, ACL 2020 and ICML 2020 conferences
 * Received a D&I financial support for attending the virtual ACL 2020 conference 
