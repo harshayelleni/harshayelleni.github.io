@@ -15,8 +15,9 @@ permalink: /experience_academic_projects/
 # Academic Projects
 ---
 #### M2SmarT (Smart Transportation) [Aug 2019 - current, JICA Indo-Japanese Project]
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Developing real-time algorithms for Vehicle Detection, Vehicle Segmentation, Traffic Congestion Detection and Prediction tasks. 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Worked on Indian Vehicle data from Ahmedabad city.
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Developing real-time algorithms for Vehicle Detection, Vehicle Segmentation tasks
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Developing Traffic Congestion Detection and Prediction algorithms.
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Worked on Indian Vehicle data from Ahmedabad city CCTV feed.
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Improving existing deep learning based models and making them robust to handle challenging scenarios.  
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Depending on Vehicle detection, vehicle counting and vehicle tracking models also benefitted. 
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Used Pytorch, OpenCV, Tensorflow   
