@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sai Harsha"
+title                    : "Sai Harsha Yelleni"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sai Harsha Yelleni"
 description              : "MTech Research Assistant | IIT HYDERABAD"
 url                      : "https://harshayelleni.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kaushal0494/kaushal0494" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "harshayelleni/harshayelleni" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/kaushal_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Kaushal" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Sai Harsha Yelleni" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,17 +93,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaushal Kumar Maurya"
+  name             : "Sai Harsha Yelleni"
   avatar           : "/assets/images/kaushal_bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |+
-                     PHD STUDENT IN  
+                     MTech in  
                      <span style="color:blue">[IIT HYDERABAD](https://www.iith.ac.in/)</span> 
   location         : "Hyderabad, India"
-  email            : "cs18resch11003@iith.ac.in"
+  email            : "cs19mtech11023@iith.ac.in"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "cs18resch11003@iith.ac.in"
+      #url: "cs19mtech11023@iith.ac.in"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -115,10 +115,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kaushal0494"
+      url: "https://github.com/harshayelleni"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kaushal-kumar-maurya-73016773/"
+      url: "https://www.linkedin.com/in/sai-harsha-yelleni-ba62b5136/"
 
 # Site Footer
 footer:
