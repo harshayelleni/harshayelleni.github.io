@@ -6,10 +6,9 @@ permalink: /experience_academic_projects/
 # Experience 
 ---  
 #### Internship in [DOS Lab](http://dos.iitm.ac.in/), [IIT Madras](https://www.iitm.ac.in/), Chennai, Tamilnadu, India [June 2017 - July 2017]
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Build and compile BOSSMOOL linux kernel 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Writing device drivers and kernel in Object oriented paradigm  
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Build and compile BOSSMOOL linux kernel
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; Writing device drivers and kernel in Object oriented paradigm
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; Used C++ and kernel level header files to configure, compile and install MOOL kernel
-
 ---
 
 # Academic Projects
