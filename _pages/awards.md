@@ -1,22 +1,15 @@
 ---
-title: "Awards & Achievement"
+title: "Achievements"
 permalink: /awards/
 ---
-* Present our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
-* Received Student travel gran from CIKM'20 (ACM-SIGIR) and ACM-India for presenting my work at the CIKM'20 conference. 
-* Successfully converted as Senior Research Fellow (SRF) at CSE-IITH 
-* Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
-* Attended ICLR 2020, ACL 2020 and ICML 2020 conferences
-* Received a D&I financial support for attending the virtual ACL 2020 conference 
-* Worked as a volunteer to develop a virtual website for ICLR 2020, ACL 2020 and ICML 2020
-* Received 2020 Suzuki Foundation Scholarship Grant. As a part of this award, I will be visiting Shizuoka University, Japan for a short research stay
-* Attended 3-days long (5-7 Jan 2020 ) CoDS-COMAD 2020 conference in Hyderabad, India
-* Received fully paid trip for a Hackathon in Google office Gurugram (Nov -2018) organized by BBC India and IITG
-* Participated Google India Hackathon at Hyderabad office in Oct-2018
-* Secured 2nd place in University of Tokyo and IITH workshop at IIT Hyderabad in Sept-2018
-* Worked as TA for Algorithm (Jan'19 - April'19, Class of 120+ students), Information Retrieval (July'19 - Nov'19, Class of 30+ students) and NLP (Jan'20-Present, Class of 45+ students) courses at IITH
-* Worked as Teaching Assistance(TA) for NLP (July'16 -Nov'16, Class of 20+ students) and Optimization Technique (Jan'17-April'17, Class of 55+ students) courses at SCIS, UOH
-* Organizer of a one-day workshop on 'Sara Translator and Recent Trends in NLP' (29th Oct'16)in SCIS, UOH
-* 2014, 2015 and 2016 GATE qualified with 95+ percentile
-
-  
+* Working as TA for CS6140 (Video Content Analysis) & CS6460 (Visual Big Data Analytics)
+* Attended ICML 2020 conference and its workshops
+* Participated in Hyderabad City Police Hackathon 2020 (Jan 18th, Jan 19th) at Sri Kotla Vijaya Bhaskar Reddy Indoor Stadium 
+* 2019 GATE qualified with 99.1 percentile
+* Selected for IIT Madras Internship (5 students from 85) based on DBMS and OS evaluation.
+* Participated in Ministry of Electronics and Information Technology (Meity) GOI, Sponsored Student Workshop on "Machine Learning and Deep Learning for Natural Language Processing" at NIT Warangal, Telangana 
+* Web Team member at NIT AP from 2017 to 2019.
+* JEE Mains qualified with 97.6 percentile
+* Secured 758th rank in B.Arch 2015 among 1.2 lakh candidates (97.6 percentile)
+* State level 4th rank in JVV test
+* Cambridge spelling bee winner
