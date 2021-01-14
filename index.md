@@ -3,7 +3,7 @@ title: "Updates"
 layout: single
 permalink: /
 header:
-   image: "assets/images/quote4.jpeg"
+   image: "assets/images/ifnever.jpg"
    
 ---
 
