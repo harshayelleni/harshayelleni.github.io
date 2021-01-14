@@ -8,13 +8,12 @@ header:
 ---
 
 ---
-- **Oct 2020:** Present our work (accepted in CIKM'20) in ACM- IITH student chapter and CIKM'20 conference.  
-- **Oct 2020:** Received Student travel gran from CIKM'20 (ACM-SIGIR) and ACM-India for presenting my work at the CIKM'20 conference. 
-- **Aug 2020:** Successfully converted as Senior Research Fellow (SRF) at CSE-IITH 
-- **July 2020:** Acted as a secondary reviewer along with Samujjwal for EMNLP 2020.
-- **July 2020:** Our paper entitled as _"Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension"_ is accepted in **CIKM 2020**.
-- **May 2020:** Started the next six months (May'20 - Oct'20) collaboration with Nvidia Research on Cross-lingual generation.
-- **Jan 2020:** Received 2020 Suzuki Foundation Scholarship Grant. As a part of this award, I will be visiting Shizuoka University, Japan for a short research stay.
+- **Jan 2021:** Acting as Teaching Assistant for courses: CS6140 (Video Content Analysis) & CS6460 (Visual Big Data Analytics) offered by Prof. CKM.  
+- **Aug 2020:** Completed OPPO Video Bokeh Project for real-time person segmentation on mobile edge devices.
+- **Jul 2020:** Attended ICML 2020 virtual conference and workshops on uncertainty and federated learning
+- **May 2020:** Started the collaboration with Nvidia Research on Bayesian Deep Learning for Computer Vision and Autonomous Driving.
+- **Mar 2020:** Visited OPPO Research and Development Facility for collaboration of developing Video Bokeh Solution
+- **Jan 2020:** Participated in Hyderabad City Police Hackathon 2020 for developing smart modules for Traffic Management.
 
 ---
 
