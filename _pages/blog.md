@@ -34,20 +34,20 @@ permalink: /blog/
 
 ---  
 #### Resources for Bayesian Deep Learning: 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://docs.gpytorch.ai/en/v1.1.1/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://rajatvd.github.io/NTK/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://docs.pymc.io/Gaussian_Processes.html \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; http://www.cs.ox.ac.uk/people/yarin.gal/website/publications.html#Gal2015Dropout \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/flkraus/bayesian-yolov3 \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://forums.fast.ai/t/uncertainty-in-deep-learning-bayesian-networks-gaussian-processes/5551 \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://forums.fast.ai/t/mc-dropout-and-practical-ideas-for-it/42067 \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/asharakeh/bayes-od-rc \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/yaringal/DropoutncertaintyExps/blob/master/net/net.py \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/HolyBayes/pytorch_ard \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/google/neural-tangents \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/gradientinstitute/aboleth \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/kekeblom/DeepCGP \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; http://www.gatsby.ucl.ac.uk/~balaji/ 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [GPytorch - for Gaussian Processes](https://docs.gpytorch.ai/en/v1.1.1/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Neural Tangent Kernel](https://rajatvd.github.io/NTK/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Gaussian Processes (pymc)](https://docs.pymc.io/Gaussian_Processes.html) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Deep Learning with GPs](https://amundtveit.com/2016/12/02/deep-learning-with-gaussian-process/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Yarin Gal's publications (Dropout)](http://www.cs.ox.ac.uk/people/yarin.gal/website/publications.html#Gal2015Dropout) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian YOLOv3](https://github.com/flkraus/bayesian-yolov3) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Uncertainty in Deep Learning, Bayesian Networks, GPs](https://forums.fast.ai/t/uncertainty-in-deep-learning-bayesian-networks-gaussian-processes/5551) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [MC Dropout and practical ideas](https://forums.fast.ai/t/mc-dropout-and-practical-ideas-for-it/42067) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayes Object Detection for joint estimation of aleatoric and epistemic uncertainties](https://github.com/asharakeh/bayes-od-rc) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Dropout Uncertainty Experiments](https://github.com/yaringal/DropoutncertaintyExps/blob/master/net/net.py) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Variational Dropout Sparsifies Neural Networks](https://github.com/HolyBayes/pytorch_ard) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Neural Tangents](https://github.com/google/neural-tangents) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [TensorFlow framework for Bayesian deep learning and Gaussian process approximation](https://github.com/gradientinstitute/aboleth) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Deep Convolutional GP](https://github.com/kekeblom/DeepCGP) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Balaji Probabilistic Machine Learning](http://www.gatsby.ucl.ac.uk/~balaji/) 
 
 ---
