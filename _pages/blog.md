@@ -4,17 +4,17 @@ permalink: /blog/
 ---
 ---  
 #### Resources for object detection: 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; (http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/) \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://medium.com/@amrokamal_47691/yolo-yolov2-and-yolov3-all-you-want-to-know-7e3e92dc4899 \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/potterhsu/easy-faster-rcnn.pytorch#setup \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://blog.roboflow.ai/yolov5-is-here/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://blog.roboflow.ai/a-thorough-breakdown-of-yolov4/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://devblogs.nvidia.com/object-detection-gpus-10-minutes/ \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://models.roboflow.com/object-detection \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/ultralytics/yolov5 \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/AlexeyAB/darknet \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp;
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [RCNNs for classification and detection](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Pytorch Faster RCNN](https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLO versions](https://medium.com/@amrokamal_47691/yolo-yolov2-and-yolov3-all-you-want-to-know-7e3e92dc4899) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [easy faster rcnn implementation](https://github.com/potterhsu/easy-faster-rcnn.pytorch#setup) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLOv5 blog](https://blog.roboflow.ai/yolov5-is-here/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLOv4 blog](https://blog.roboflow.ai/a-thorough-breakdown-of-yolov4/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Object detection NVIDIA](https://devblogs.nvidia.com/object-detection-gpus-10-minutes/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Explanation blog](https://models.roboflow.com/object-detection) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLOv5 implementation](https://github.com/ultralytics/yolov5) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLOv4 implementation](https://github.com/AlexeyAB/darknet )\
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; 
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 
@@ -23,7 +23,7 @@ permalink: /blog/
 
 ---  
 #### Resources for Segmentation: 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/dbolya/yolact \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Real-time Instance Segmentation YOLACT](https://github.com/dbolya/yolact) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; 
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
