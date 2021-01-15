@@ -14,8 +14,8 @@ permalink: /blog/
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Explanation blog](https://models.roboflow.com/object-detection) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLOv5 implementation](https://github.com/ultralytics/yolov5) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [YOLOv4 implementation](https://github.com/AlexeyAB/darknet )\
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Efficient Detector](https://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 
 ---
@@ -24,9 +24,9 @@ permalink: /blog/
 ---  
 #### Resources for Segmentation: 
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Real-time Instance Segmentation YOLACT](https://github.com/dbolya/yolact) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Portrait Instance Segmentation](https://github.com/anilsathyan7/Portrait-Segmentation/blob/master/utils/data.py) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Semantic Segmentation Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp;
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 
 ---
@@ -34,6 +34,13 @@ permalink: /blog/
 
 ---  
 #### Resources for Bayesian Deep Learning: 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Gaussian YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian Deep Learning and Uncertainty Niko Sünderhauf](https://nikosuenderhauf.github.io/projects/uncertainty/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian CNN](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian RNN](https://www.mdpi.com/1099-4300/21/2/184/pdf-vor) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian LSTM](https://towardsdatascience.com/bayesian-lstm-on-pytorch-with-blitz-a-pytorch-bayesian-deep-learning-library-5e1fec432ad3) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian Neural Nets](http://videolectures.net/DLRLsummerschool2018_wilson_bayesian_neural_nets/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Scalable and flexible models for Uncertainty](https://csc2541-f17.github.io/) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [GPytorch - for Gaussian Processes](https://docs.gpytorch.ai/en/v1.1.1/) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Neural Tangent Kernel](https://rajatvd.github.io/NTK/) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Gaussian Processes (pymc)](https://docs.pymc.io/Gaussian_Processes.html) \
@@ -48,6 +55,8 @@ permalink: /blog/
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Neural Tangents](https://github.com/google/neural-tangents) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [TensorFlow framework for Bayesian deep learning and Gaussian process approximation](https://github.com/gradientinstitute/aboleth) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Deep Convolutional GP](https://github.com/kekeblom/DeepCGP) \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Balaji Probabilistic Machine Learning](http://www.gatsby.ucl.ac.uk/~balaji/) 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Balaji Lakshminarayanan Probabilistic Machine Learning](http://www.gatsby.ucl.ac.uk/~balaji/) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Tensorflow Probability](https://www.tensorflow.org/probability) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Doubly Stochastic Deep GGP](https://github.com/ICL-SML/Doubly-Stochastic-DGP)
 
 ---
