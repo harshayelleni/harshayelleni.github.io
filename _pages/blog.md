@@ -4,7 +4,7 @@ permalink: /blog/
 ---
 ---  
 #### Resources for object detection: 
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/ \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; (http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/ \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://medium.com/@amrokamal_47691/yolo-yolov2-and-yolov3-all-you-want-to-know-7e3e92dc4899 \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/potterhsu/easy-faster-rcnn.pytorch#setup \
@@ -48,6 +48,6 @@ permalink: /blog/
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/google/neural-tangents \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/gradientinstitute/aboleth \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; https://github.com/kekeblom/DeepCGP \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; http://www.gatsby.ucl.ac.uk/~balaji/ \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; http://www.gatsby.ucl.ac.uk/~balaji/ 
 
 ---
