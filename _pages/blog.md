@@ -34,6 +34,7 @@ permalink: /blog/
 
 ---  
 #### Resources for Bayesian Deep Learning: 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Deep Bayes](https://deepbayes.ru/2019/#materials) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Gaussian YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian Deep Learning and Uncertainty Niko Sünderhauf](https://nikosuenderhauf.github.io/projects/uncertainty/) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Bayesian CNN](https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e) \
