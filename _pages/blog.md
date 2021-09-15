@@ -40,6 +40,7 @@ permalink: /blog/
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://paperswithcode.com/paper/swin-transformer-hierarchical-vision) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [PVTv2: Improved Baselines with Pyramid Vision Transformer](https://paperswithcode.com/paper/pvtv2-improved-baselines-with-pyramid-vision) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 
 ---
