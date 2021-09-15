@@ -32,6 +32,19 @@ permalink: /blog/
 ---
 
 
+
+---  
+#### Resources for Vision Transformers: 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [CvT: Introducing Convolutions to Vision Transformers](https://paperswithcode.com/paper/cvt-introducing-convolutions-to-vision) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Vision Transformer - Pytorch Many basic types of Vision Transformers](https://github.com/lucidrains/vit-pytorch) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://paperswithcode.com/paper/swin-transformer-hierarchical-vision) \
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp;
+
+---
+
+
+
 ---  
 #### Resources for Bayesian Deep Learning: 
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Deep Bayes](https://deepbayes.ru/2019/#materials) \
