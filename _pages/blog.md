@@ -38,7 +38,7 @@ permalink: /blog/
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [CvT: Introducing Convolutions to Vision Transformers](https://paperswithcode.com/paper/cvt-introducing-convolutions-to-vision) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Vision Transformer - Pytorch Many basic types of Vision Transformers](https://github.com/lucidrains/vit-pytorch) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp; [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://paperswithcode.com/paper/swin-transformer-hierarchical-vision) \
-&nbsp; &nbsp; &nbsp; &#9679; &nbsp; 
+&nbsp; &nbsp; &nbsp; &#9679; &nbsp; [PVTv2: Improved Baselines with Pyramid Vision Transformer](https://paperswithcode.com/paper/pvtv2-improved-baselines-with-pyramid-vision) \
 &nbsp; &nbsp; &nbsp; &#9679; &nbsp;
 
 ---
